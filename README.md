@@ -1,6 +1,6 @@
 ## Hi there, my name is Leon 👋
 
-- 🎓 Full time student Bachelor Computer Science and Engineering at Eindhoven university of technology
+- 🎓 Full time student Bachelor Computer Science and Engineering at Eindhoven University of Technology
 - 💻 Volunteer at the Information Technology Committee of AEGEE, frontend developer
 - 🔧 Maintainer and developer of the [Europe on Track](https://www.europeontrack.org/) website
 
