@@ -1,15 +1,16 @@
 ## Hi there, my name is Leon 👋
 
-- 🎓 Full time student Bachelor Computer Science and Engineering at Eindhoven University of Technology
-- 💻 Volunteer at the Information Technology Committee of AEGEE, full stack developer
-- 🔧 Maintainer and developer of the [Europe on Track](https://www.europeontrack.org/) website
+- 🎓 Full time student Master Data Science and Artificial Intelligence at Eindhoven University of Technology
+- 💻 Volunteer at the [Information Technology Committee of AEGEE](https://github.com/AEGEE), full stack developer for [MyAEGEE](https://github.com/AEGEE/MyAEGEE)
+- 📰 Developer and maintainer of the [Supremum website](https://github.com/GEWIS/supremumweb), a triannual magazine of [Study Association GEWIS](https://github.com/GEWIS)
 
 ---
 
-[<img align="left" alt="LeonVreling | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+Check out my LinkedIn page for more info [here](https://linkedin.com/in/leonvreling).
 
+---
 
+Just started doing LeetCode for Python:
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/LeonVreling)
 
-
-[linkedin]: https://linkedin.com/in/leonvreling
