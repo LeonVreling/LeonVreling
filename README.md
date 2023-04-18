@@ -6,11 +6,22 @@
 
 ---
 
-Check out my LinkedIn page for more info [here](https://linkedin.com/in/leonvreling).
+<!-- Just started doing LeetCode for Python: -->
+
+<!-- ![Leetcode Stats](https://leetcard.jacoblin.cool/LeonVreling) -->
+
+<div align="center">
+
+![Leon's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonVreling&show_icons=true&theme=transparent&count_private=true&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonVreling&theme=transparent)
+
+</div>
 
 ---
 
-Just started doing LeetCode for Python:
+<div align="center">
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/LeonVreling)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/leonvreling)
 
+</div>
